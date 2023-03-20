@@ -1,3 +1,3 @@
 console.log('cofig.js');
-console.log('version12');
+console.log('version13');
 console.log('updated');
